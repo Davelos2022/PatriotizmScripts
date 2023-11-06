@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69da029e2f99df74386cf48f3052b0e5, type: 3}
+  m_Name: New Data Editing Scene Args
+  m_EditorClassIdentifier: 
+  editType: 0
+  container: {fileID: 0}
+  pointData:
+    UID: cbeeccc3-ab96-4a82-b800-c94593e8685c
+    name: 
+    icon: {fileID: 0}
+    iconPath: 
+    photos: []
+    pointPhotosPath: []
+    description: 
+    anchoredPositionX: 0
+    anchoredPositionY: 0
+    userPoint: 1
+    showByDefault: 0
+    categories: []
+    extended: 0
+    group: 1
+    audioDescriptionPath: 
+    clip: {fileID: 0}
+  category:
+    UID: 580f4a2f-3d57-47c7-bb14-4e9b98943f9e
+    name: 
+    description: 
+    audioPath: 
+    coverPath: 
+    albums: []
+    audio: {fileID: 0}
+    cover: {fileID: 0}
+  album:
+    UID: 4c6e4694-fc8c-48f8-a103-9045a4799608
+    name: 
+    description: 
+    audioPath: 
+    photoPaths: []
+    photos: []
+    audio: {fileID: 0}
